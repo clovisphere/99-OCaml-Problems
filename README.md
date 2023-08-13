@@ -13,7 +13,7 @@ The problems are divided into 7 sections:
 - [ ] Miscellaneous
 
 ## How to run the code:
-Assuming you've [OCaml](https://ocaml.org/install) installed.
+Make sure you've [OCaml installed](https://ocaml.org/install).
 
 ```bash
 git clone https://github.com/clovisphere/99-OCaml-Problems.git
