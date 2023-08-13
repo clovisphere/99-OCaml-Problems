@@ -4,13 +4,13 @@ Solution to the [99 OCaml Problems](https://ocaml.org/problems?difficulty_level=
 
 The problems are divided into 7 sections:
 
-[] Lists
-[] Arithmetic
-[] Logic and Codes
-[] Binary Trees
-[] Multiway Trees
-[] Graphs
-[] Miscellaneous
+- [ ] Lists
+- [ ] Arithmetic
+- [ ] Logic and Codes
+- [ ] Binary Trees
+- [ ] Multiway Trees
+- [ ] Graphs
+- [ ] Miscellaneous
 
 ## How to run the code:
 Assuming you've [OCaml](https://ocaml.org/install) installed.
